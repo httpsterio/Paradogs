@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 80d6775d09a6b084081112fda8c697a7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skyscraper1
+    21300002: Skyscraper2
+    21300004: Skyscraper3
+    21300006: Skyscraper4
+    21300008: Skyscraper5
+    21300010: Skyscraper6
+    21300012: city_buildings1_2
+    21300014: Skyscraper8
+    21300016: Skyscraper9
+    21300018: Skyscraper10
+    21300020: Skyscraper11
+    21300022: Skyscraper12
+    21300024: Skyscraper13
+    21300026: Skyscraper14
+    21300028: Crane
+    21300030: PhoneMast
+    21300032: Building1
+    21300034: Building2
+    21300036: Building3
+    21300038: Building4
+    21300040: Building5
+    21300042: Building6
+    21300044: Building7
+    21300046: Building8
+    21300048: Building9
+    21300050: Building10
+    21300052: Building11
+    21300054: Building12
+    21300056: Building13
+    21300058: Building14
+    21300060: Building15
+    21300062: Building16
+    21300064: Building17
+    21300066: Building18
+    21300068: Building19
+    21300070: Building20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Skyscraper1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 139
+        height: 306
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 136
+        height: 314
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 6
+        width: 98
+        height: 257
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6
+        width: 111
+        height: 306
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 6
+        width: 101
+        height: 348
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 6
+        width: 77
+        height: 280
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city_buildings1_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 6
+        width: 110
+        height: 164
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6
+        width: 118
+        height: 338
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper9
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 6
+        width: 97
+        height: 241
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper10
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 6
+        width: 105
+        height: 297
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper11
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 6
+        width: 131
+        height: 273
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper12
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 6
+        width: 78
+        height: 292
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper13
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 6
+        width: 106
+        height: 282
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skyscraper14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 558
+        width: 230
+        height: 394
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crane
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 356
+        width: 359
+        height: 364
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PhoneMast
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 355
+        width: 87
+        height: 457
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 356
+        width: 162
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 356
+        width: 155
+        height: 145
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 356
+        width: 79
+        height: 126
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 356
+        width: 130
+        height: 117
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building5
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 356
+        width: 239
+        height: 176
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building6
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 356
+        width: 151
+        height: 113
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 558
+        width: 124
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 558
+        width: 129
+        height: 144
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 557
+        width: 102
+        height: 154
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building10
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 557
+        width: 134
+        height: 193
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 558
+        width: 229
+        height: 106
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 758
+        width: 245
+        height: 122
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 757
+        width: 83
+        height: 176
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 757
+        width: 93
+        height: 117
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 757
+        width: 93
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 758
+        width: 65
+        height: 107
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building17
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 757
+        width: 82
+        height: 158
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building18
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 758
+        width: 159
+        height: 108
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 758
+        width: 124
+        height: 119
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building20
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 757
+        width: 73
+        height: 173
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
